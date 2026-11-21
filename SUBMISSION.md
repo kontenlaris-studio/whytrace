@@ -9,10 +9,10 @@ the Theme-01 entry (OneMemory). The Theme-01 submission must remain untouched.
 - [x] Working code + selftest 10/10 + recorded demo (`data/demo-output.json`)
 - [x] Live Meko verification 6/6 (`data/live-test.json`)
 - [x] README + ARCHITECTURE
-- [ ] Public GitHub repo
-- [ ] Demo video < 5 min (script below), uploaded (unlisted)
-- [ ] HackerEarth submission Published with Presentation PDF + Source Code ZIP
-- [ ] Verify the Theme-01 OneMemory submission still shows Published afterwards
+- [x] Public GitHub repo — https://github.com/kontenlaris-studio/whytrace
+- [x] Demo video < 5 min (script below), uploaded (unlisted) — 1:51, https://www.youtube.com/watch?v=2i80K34Fh7U (21 Nov 2026)
+- [x] HackerEarth submission Published with Presentation PDF + Source Code ZIP — **PUBLISHED 21 Nov 2026, 14:13 WIB** (Challenge 7: Show Your Work)
+- [x] Verify the Theme-01 OneMemory submission still shows Published afterwards — terverifikasi: daftar menampilkan All (2), OneMemory tetap Published 13:57 WIB, tidak berubah
 
 ## Demo video script (< 5 min)
 

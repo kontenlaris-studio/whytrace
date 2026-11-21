@@ -1,0 +1,25 @@
+{
+  "case_A_decision": "case A: APPROVED",
+  "case_B_decision": "case B: APPROVED",
+  "audit_B": {
+    "questions_answered": 5,
+    "queries_needed": 1,
+    "render_ms": 0.02,
+    "who": "billing-agent"
+  },
+  "root_cause_B": {
+    "culprit_memory": "POL-PROMO-LEGACY",
+    "source": "promo-team (expired)",
+    "explanation": "decision used stale memory POL-PROMO-LEGACY from promo-team (expired)"
+  },
+  "replay_B_matches": true,
+  "replay_A_matches": true,
+  "resume_from_B": {
+    "resumed_from": 5,
+    "context_restored": [
+      "POL-PROMO-LEGACY"
+    ]
+  },
+  "raw_events_total": 46,
+  "baseline_events_to_scan_manually": 46
+}

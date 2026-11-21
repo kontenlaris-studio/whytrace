@@ -1,0 +1,13 @@
+file '/home/hatch/workspace/contextcon-whytrace/video/slide0.png'
+duration 19.31
+file '/home/hatch/workspace/contextcon-whytrace/video/slide1.png'
+duration 16.48
+file '/home/hatch/workspace/contextcon-whytrace/video/slide2.png'
+duration 20.51
+file '/home/hatch/workspace/contextcon-whytrace/video/slide3.png'
+duration 16.91
+file '/home/hatch/workspace/contextcon-whytrace/video/slide4.png'
+duration 18.71
+file '/home/hatch/workspace/contextcon-whytrace/video/slide5.png'
+duration 21.81
+file '/home/hatch/workspace/contextcon-whytrace/video/slide5.png'

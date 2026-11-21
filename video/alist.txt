@@ -1,0 +1,6 @@
+file '/home/hatch/workspace/contextcon-whytrace/video/narr0.mp3'
+file '/home/hatch/workspace/contextcon-whytrace/video/narr1.mp3'
+file '/home/hatch/workspace/contextcon-whytrace/video/narr2.mp3'
+file '/home/hatch/workspace/contextcon-whytrace/video/narr3.mp3'
+file '/home/hatch/workspace/contextcon-whytrace/video/narr4.mp3'
+file '/home/hatch/workspace/contextcon-whytrace/video/narr5.mp3'

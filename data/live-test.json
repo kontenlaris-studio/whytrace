@@ -1,0 +1,8 @@
+{
+  "conversation_create": "ok",
+  "conversation_add_message": "ok",
+  "artifact_put": "ok",
+  "conversation_get": "ok",
+  "selflearning_query_log": "ok",
+  "artifact_get": "ok"
+}

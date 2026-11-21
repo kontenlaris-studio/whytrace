@@ -1,0 +1,74 @@
+{
+  "conversation_add_message": {
+    "required": [
+      "conversation_id",
+      "input",
+      "output"
+    ],
+    "props": [
+      "conversation_id",
+      "input",
+      "output",
+      "agent_id",
+      "reasoning",
+      "metadata",
+      "seed",
+      "datapack_id",
+      "plan"
+    ]
+  },
+  "conversation_get": {
+    "required": [
+      "conversation_id"
+    ],
+    "props": [
+      "conversation_id",
+      "agent_id",
+      "include_messages",
+      "limit",
+      "offset",
+      "datapack_id"
+    ]
+  },
+  "artifact_put": {
+    "required": [
+      "filename",
+      "content_base64",
+      "content_type",
+      "conversation_id"
+    ],
+    "props": [
+      "filename",
+      "content_base64",
+      "content_type",
+      "conversation_id",
+      "datapack_id",
+      "agent_id"
+    ]
+  },
+  "artifact_get": {
+    "required": [
+      "content_hash",
+      "conversation_id"
+    ],
+    "props": [
+      "content_hash",
+      "conversation_id",
+      "datapack_id",
+      "agent_id"
+    ]
+  },
+  "selflearning_query_log": {
+    "required": [],
+    "props": [
+      "datapack_id",
+      "band",
+      "reason",
+      "category",
+      "log_id",
+      "page",
+      "last",
+      "conversation_id"
+    ]
+  }
+}
